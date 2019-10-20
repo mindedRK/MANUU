@@ -1,2 +1,2 @@
 # MANUU
-It work shop(python lab assignment)
+IT work shop(python lab assignment)
